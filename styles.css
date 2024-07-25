@@ -1,0 +1,35 @@
+.logo-img{
+    width: 165px;
+}
+.nav-item{
+    font-size: 2rem;
+    color: var(--white);
+}
+
+.navbar{
+    padding: 15px;
+}
+
+
+.Franchise-btn{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px ;
+    border-radius: 20px;
+
+}
+
+.Order-btn{
+    background-color: red;
+    border: none;
+    padding: 20px 25px;
+    border-radius: 30px;
+    
+
+}
+
+
+.inter-logo{
+    width: 2000px;
+}
+
